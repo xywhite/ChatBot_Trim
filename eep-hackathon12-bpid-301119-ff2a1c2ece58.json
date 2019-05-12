@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eep-hackathon12-bpid-301119",
+  "private_key_id": "ff2a1c2ece589160aef9817a783237e5531c40f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1ZUbS1kj8aMFi\n9fQqZLv9Hs9tZB6Ve5fqOEj/MSOt3CD7lo2PZB2pDA9RMnhfsPA3h1iRfQMpusrf\ntMJwdKieIyIg3TtMqNBPdRTpl0ebhw+sTEwNgoXtijz4VGgzMDuCixJ7ul0lIBoI\n9LxIANLCTQMaMAZrJ85omHmjLceQMpSzjkQmMz/TuN0zjc8kh3O84wHiQeWm0eLl\nQgqCbNP/+zGF5E8NP+u5qFh2xIoOsbYoVrSKZNj6o6IWzBxlYs6PPKFLGbF8ud5D\nd8ndS4ZWdHDcLRFhXjA95zl1jv9HFxfhzFg/9uMQDVyZ3aNaLY3Wci1lrPGC7EdW\n+/TjEcZPAgMBAAECggEAAJuHurIMCYhiSW4QdMnklUryn+ercI266wZoPC6Sc4Ue\nuSj+bWIE9Wl8baWxIITrsQvrgIU+KvgcsNYeppjFbc4pUZncFnwkQnfea4/dpgg0\nRbv1rz/mKe8CGETUGoPJVz0XAUIVCMhMPgZv0P/rtMnkPkS16Mr31oLYOXMwTWvU\ngL9ljieORMXqyxoxYGF/0GKIIs3HUIf75U/a9HPT8LvTaaNQ9aa6TDWWoskQcmpe\nZFcJYwbgQllvjOQfsNCQSZjFMAVq0M2ffK5+NqBIIH2xyniFGkf7azxlYjd52sj/\nlW3MCWseJ42yaUU7qzocznE8+S0/MwJCjFu6anALPQKBgQDhjuHH+56H6SOaMO3n\nr7gq4LNEX9mh+dgWCfewOyrgCVMXNYAeCNJ3DQOPm+F2nXO5GE4jqeYWexsbLmpP\n+kHm0IROflDg4CzIlboX5Oh1KQhRTNEZ6YZ2piKtOxbfzj4fJavzUA/ravEDBjo2\ncUWyPWA37Wd5MvRpo3rd5AyxZQKBgQDN4JAkDUtU+0cLAXlw/f5KvqBDPbIvfM9Q\n4pQZxg2YVpCbOyGZcBc1xK92MiAI+CnNlagVLSnezzJWtXIH+IkrM91QIKKEi7Ym\nPA0gC6Lq9HuKFR6mpKVXXtXnETrPRt5fc/Sy07slg3Yx9gV23qoBcDK2luvPfFWv\nfrLrpm3XowKBgQCJq80xY+oaKHm7hjvfWwh821Nv21UZoUZ8BS9yGFsODYLyuovt\nSRM06POQduOBo47bnfMrn2q5tAASch0fna8Vs5Xd1wmEiC+tan4AUY503EugW9OR\nDlEtIDAwLc3DYr3WAwdV5jshRM/AOc/UJQUWSpHs8PFkL26w/8BhqOz6ZQKBgAsh\nQ8mfKl5qwzl2F/Gi2ZeC3Lkl4bctgSu3RBhsm5mLvH+X38YiyC5w9qdmKFMzz1a8\n63xRl7zi6K7FWmfR6OB8Ck/lo8OUpgFFJ9R+rI0VMISThbeumP2zM88tIEfKZgU1\nCJqOVcS+aapjyYHWocw4G5XBbPgnmZ5GNDgHJFMPAoGBAJL8atY89I9yv8tGtiA6\nSkPRcJCEBDhx0CSneI1iyRQD7hMR0t1WtWO73za3t/aT+YfD8qlFeeLeinHThUYX\nn31Tq5tLbLaDAbCUF9jNrGsUfCjdw99TY1CE2XZuEDdAfN56ixZN9gZwBfHaIgCq\nAY48ETGw/dGDuIXzVIO7iJz9\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-bioffg@eep-hackathon12-bpid-301119.iam.gserviceaccount.com",
+  "client_id": "104457714104460868900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-bioffg%40eep-hackathon12-bpid-301119.iam.gserviceaccount.com"
+}
